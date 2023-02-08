@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Blogs List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app uses JSONPlaceHolder API to fetch blogs and display them as a list with the author Image and Name
 
 ## Available Scripts
 
